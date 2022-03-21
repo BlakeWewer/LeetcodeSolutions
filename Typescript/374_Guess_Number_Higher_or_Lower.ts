@@ -1,4 +1,4 @@
-// Leetcode 374 Typescript Solution
+// Leetcode #374 Typescript Solution
 
 /** 
  * Forward declaration of guess API.

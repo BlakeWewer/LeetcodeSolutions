@@ -1,6 +1,6 @@
 <?php
 
-// Leetcode 1 PHP Solution
+// Leetcode #1 PHP Solution
 
 class Solution {
     /**

@@ -1,4 +1,4 @@
-// Leetcode 868 Typescript Solution
+// Leetcode #868 Typescript Solution
 
 function binaryGap(n: number): number {
     var max_distance = 0;

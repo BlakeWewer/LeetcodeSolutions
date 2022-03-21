@@ -1,6 +1,6 @@
 <?php
 
-// Leetcode 1496 PHP Solution
+// Leetcode #1496 PHP Solution
 
 class Solution {
     /**

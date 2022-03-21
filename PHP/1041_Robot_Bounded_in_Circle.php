@@ -1,6 +1,6 @@
 <?php
 
-// Leetcode 1041 PHP Solution
+// Leetcode #1041 PHP Solution
 
 class Solution {
     /**

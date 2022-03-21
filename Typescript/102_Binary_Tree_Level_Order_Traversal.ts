@@ -1,4 +1,4 @@
-// Leetcode 102 Typescript Solution
+// Leetcode #102 Typescript Solution
 
 /**
  * Definition for a binary tree node.
